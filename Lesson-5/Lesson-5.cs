@@ -49,7 +49,7 @@ namespace Lesson_5
             //double dbl = 109.5;
             //int i = (int)dbl;
             //Console.WriteLine(i);
-            calculate(2.5,2.6);
+            calculate(2.5, 2.6);
             //Console.WriteLine(Math.Ceiling(2.9999999999999));
             //Console.WriteLine(string.Equals("Salam", "SaLam"));
             //string data = "SALAM";
@@ -57,7 +57,7 @@ namespace Lesson_5
             string data = " ";
             Console.WriteLine(string.IsNullOrEmpty(data));
         }
-        public static int calculate(int n1,int n2)
+        public static int calculate(int n1, int n2)
         {
             int result = n1 + n2;
             Console.WriteLine(result);

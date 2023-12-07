@@ -29,7 +29,7 @@ namespace task_6
                 {
                     break;
                 }
-                switch (deyer)
+                switch (says)
                 {
                     case 1:
 
@@ -71,7 +71,7 @@ namespace task_6
 
                                 dynamic says2 = new { namest = name4, surnamest = surname1, agest = age1, resultst = result1 };
 
-                                studentslist.Add(deyer2);
+                                studentslist.Add(says2);
 
 
                             }
