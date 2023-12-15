@@ -1,0 +1,4 @@
+1.Static classlarin obyektini yaratmaq olmur!
+2.Static classin daxilinde yalniz!!!!  static memberler olmaldiir(mes:static method,static property)
+3. Static method obyekte bagli deyil
+sadece classin adi noqte qoyulub cagrilir

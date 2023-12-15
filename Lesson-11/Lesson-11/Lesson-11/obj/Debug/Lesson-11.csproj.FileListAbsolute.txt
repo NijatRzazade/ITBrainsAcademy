@@ -1,0 +1,16 @@
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\bin\Debug\Lesson-11.exe.config
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\bin\Debug\Lesson-11.exe
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\bin\Debug\Lesson-11.pdb
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\obj\Debug\Lesson-11.exe
+C:\Users\Nicat\Desktop\Lesson-11\Lesson-11\obj\Debug\Lesson-11.pdb
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\bin\Debug\Lesson-11.exe.config
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\bin\Debug\Lesson-11.exe
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\bin\Debug\Lesson-11.pdb
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\obj\Debug\Lesson-11.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\obj\Debug\Lesson-11.exe
+C:\Users\Nicat\Desktop\İTBrainsAcademy\Lesson-11\Lesson-11\Lesson-11\obj\Debug\Lesson-11.pdb
