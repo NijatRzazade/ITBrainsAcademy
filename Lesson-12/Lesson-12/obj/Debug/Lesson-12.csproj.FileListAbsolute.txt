@@ -1,0 +1,8 @@
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\bin\Debug\Lesson-12.exe.config
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\bin\Debug\Lesson-12.exe
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\bin\Debug\Lesson-12.pdb
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\obj\Debug\Lesson-12.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\obj\Debug\Lesson-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\obj\Debug\Lesson-12.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\obj\Debug\Lesson-12.exe
+C:\Users\Nicat\Desktop\Lesson-12\Lesson-12\obj\Debug\Lesson-12.pdb
