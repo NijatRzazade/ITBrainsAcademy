@@ -1,0 +1,17 @@
+﻿Bölüm 1: Əsas Sinifin Təyin Edilməsi
+* Product adlı əsas sinif yaradın və aşağıdakı xüsusiyyətləri əlavə edin:
+   * Id (int): Unikal identifikator.
+   * Name (string): Məhsulun adı. 
+   * Price (double): Məhsulun qiyməti.
+* Product sinifində, məhsulun əsas məlumatlarını (məsələn, Id, Name, Price) göstərmək üçün DisplayDetails adlı bir metod tərtib edin.
+Bölüm 2: Törəmə Siniflərini Yaratmaq
+* Beverage adlı bir törəmə sinif yaradın və Product sinifindən miras alsın. Aşağıdakı xüsusiyyətləri əlavə edin:
+   * Volume (double): İçki həcmini.
+* Başqa bir törəmə sinifi olan Food yaradın və də aynı şəkildə Product sinifindən miras alsın. Aşağıdakı xüsusiyyətləri əlavə edin:
+   * ExpirationDate (DateTime): Qida məhsulunun son istifadə tarixi.
+   * IsVegetarian (bool): Məhsulun vejetaryan olub-olmaması.
+* Beverage və Food siniflərindəki DisplayDetails metodunu əsas sinifin detallarına əlavə detallarını da əlavə edərək yenidən yazın.
+Bölüm 3: Sinifləri Sınaqdan Keçirin
+* Proqramınızın Main metodunda Beverage və Food nümunələrini yaratın. Onların xüsusiyyətlərinə qiymətlər təyin edin və DisplayDetails metodunu istifadə edərək təfərrüatlarını çap edin.
+* Food sinifində, ExpirationDate və IsVegetarian xüsusiyyətlərinə qiymət təyin edin.
+*
