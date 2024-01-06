@@ -1,0 +1,13 @@
+﻿
+
+## Tapshiriq 1:
+
+Student.cs olsun, Name, Surname, Age propertyleri olsun, ancaq constructorda set olsun. Neche defe instance aldigimizi qaytaran Counter olsun, hansiniki yalniz constructorda set ede bilek.
+
+
+
+## Tapshiriq 2:
+
+IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. Rectangle, Circle, Triangle, Square bu interface-in methodlarini implement etsin.
+
+
