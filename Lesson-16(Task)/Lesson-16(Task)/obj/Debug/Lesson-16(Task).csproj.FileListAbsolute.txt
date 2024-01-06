@@ -1,0 +1,8 @@
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\bin\Debug\Lesson-16(Task).exe.config
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\bin\Debug\Lesson-16(Task).exe
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\bin\Debug\Lesson-16(Task).pdb
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\obj\Debug\Lesson-16(Task).csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\obj\Debug\Lesson-16(Task).csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\obj\Debug\Lesson-16(Task).csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\obj\Debug\Lesson-16(Task).exe
+C:\Users\Nicat\Desktop\Lesson-16(Task)\Lesson-16(Task)\obj\Debug\Lesson-16(Task).pdb
